@@ -1,2 +1,2 @@
 I am a random file. 
-creating a merge conflict.
+lol! a merge conflict.
